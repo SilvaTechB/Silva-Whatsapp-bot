@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Suhail-Md",
+            "botName": "Mcross-Md",
             "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To Suhail Ser",
+            "greet2" : "Thanks To King Mcross",
             "pic1": "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg", 
             "pic2": "https://telegra.ph/file/bc21f6f60bd1e3805f2a3.jpg", 
             "pic3": "https://telegra.ph/file/3d64d515e218df059601c.jpg", 
@@ -33,7 +33,7 @@
             "antlink": "Link Detected.\n*Good Bye Rouge pirate*",
             "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Suhail_Md*",
             "mention": " Please mention My Owner",
-            "title": "Suhail-Md",
+            "title": "Mcross-Md",
             "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo",
             "by": "Made by: Suhail Tech Info",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
