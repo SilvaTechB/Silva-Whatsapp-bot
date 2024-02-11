@@ -1,10 +1,10 @@
 {
   "name": "𝙈𝘾𝙍𝙊𝙎𝙎-𝙈𝘿",
-  "description": "I am Mcross-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "description": "I am Mcross-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/2349042566473",
   "logo": "https://telegra.ph/file/ee3cfef83cc3a570fd9ed.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
-  "app_url": "/suhail/",
+  "keywords": ["whatsappbot", "mcrossMd", "mcross Md bot", "mcross-Md", "mcrossMdWhatsaooBot", "McrossWaBot","McrossMD","Mcross Md Whatsapp Bot","multi device"],
+  "success_url": "/mcross/",
+  "app_url": "/mcross/",
   
   "env": {
     "OWNER_NAME": {
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝙈𝘾𝙍𝙊𝙎𝙎-𝙈𝘿"
+      "value": "✪𝙈𝘾𝙍𝙊𝙎𝙎-𝙈𝘿✪"
     }, 
     "IMAGE": {
       "description": "Image for bot",
