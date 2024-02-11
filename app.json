@@ -1,5 +1,5 @@
 {
-  "name": "Mcross-md",
+  "name": "𝙈𝘾𝙍𝙊𝙎𝙎-𝙈𝘿",
   "description": "I am Mcross-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
   "logo": "https://telegra.ph/file/ee3cfef83cc3a570fd9ed.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "King mcross",
+      "value": "𝙆𝙄𝙉𝙂 𝙈-𝘾𝙍𝙊𝙎𝙎",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "ᴍᴄʀᴏss-ᴍᴅ"
+      "value": "𝙈𝘾𝙍𝙊𝙎𝙎-𝙈𝘿"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -37,7 +37,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Afica/Nigeria"
+      "value": "Nigeria/Lagos"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "f70feb67-eceb-4ea4-8f9a-ee1fe0cfec69",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "𝙈𝘾𝙍𝙊𝙎𝙎-𝙈𝘿",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "𝙆𝙄𝙉𝙂 𝙈𝘾𝙍𝙊𝙎𝙎",
       "required": false 
     }
   }, 
