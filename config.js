@@ -14,8 +14,8 @@ global.allowJids= process.env.ALLOW_JID || "null"
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI=process.env.DATABASE_URL || "mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu"
 global.scan = "https://suhail-md-vtsf.onrender.com/";
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nigeria";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "NIGERIA/LAGOS";
+global.github=process.env.GITHUB|| "https://github.com/M-cross1/Suhail-Md/tree/main";
 global.gurl  =process.env.GURL  || "https://wa.me/2349042566473";
 global.website=process.env.GURL || "https://wa.me/2349042566473" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/98c1754e063e17917b6e6.jpg" ; // SET LOGO FOR IMAGE 
@@ -63,7 +63,7 @@ module.exports = {
   HANDLERS : process.env.PREFIX || "✅",
   BRANCH : process.env.BRANCH   || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©KÌÑG M-ÇRØSS" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "©✪𝙆𝙄𝙉𝙂 𝙈-𝘾𝙍𝙊𝙎𝙎✪" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author: process.env.PACK_AUTHER || "MCROSS-MD",
   packname: process.env.PACK_NAME || "₭ł₦₲ ₥₵ⱤØ₴₴",
