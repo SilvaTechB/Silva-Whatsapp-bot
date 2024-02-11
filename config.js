@@ -66,9 +66,9 @@ module.exports = {
   caption : process.env.CAPTION || "©KÌÑG M-ÇRØSS" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author: process.env.PACK_AUTHER || "MCROSS-MD",
-  packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "ᴍᴄʀᴏss-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "KÌÑG MÇROSS",
+  packname: process.env.PACK_NAME || "₭ł₦₲ ₥₵ⱤØ₴₴",
+  botname : process.env.BOT_NAME  || "⫷𝗠𝗖𝗥𝗢𝗦𝗦-𝗠𝗗⫸",
+  ownername:process.env.OWNER_NAME|| "🄺🄸🄽🄶 🄼-🄲🅁🄾🅂🅂",
 
   sessionName:process.env.SESSION_ID|| "",  // PUT SESSION ID HERE 
   errorChat: process.env.ERROR_CHAT || "",
@@ -84,7 +84,7 @@ module.exports = {
   aitts_Voice_Id : process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "SUHAIL",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "🄼🄲🅁🄾🅂🅂",
 
 
 
