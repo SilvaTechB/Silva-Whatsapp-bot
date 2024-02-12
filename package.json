@@ -1,14 +1,14 @@
 {
-   "name": "suhail-md",
+   "name": "KÌÑG M-ÇRØSS",
    "version": "1.2.8-pdm",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by KÎÑG M-ÇRØSS.",
    "main": "lib/client.js",
    "type": "commonjs",
    "scripts": {
              "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail",
-             "stop": "pm2 stop Suhail"             
+             "stop": "pm2 stop Mcross"             
    },
-   "author": "SuhailTechInfo",
+   "author": "KÌÑG M-ÇRØSS",
   
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
