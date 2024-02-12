@@ -63,7 +63,7 @@ module.exports = {
   HANDLERS : process.env.PREFIX || "✅",
   BRANCH : process.env.BRANCH   || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©✪𝙆𝙄𝙉𝙂 𝙈-𝘾𝙍𝙊𝙎𝙎✪" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "✪™️𝙆𝙄𝙉𝙂 𝙈-𝘾𝙍𝙊𝙎𝙎™️✪" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author: process.env.PACK_AUTHER || "MCROSS-MD",
   packname: process.env.PACK_NAME || "₭ł₦₲ ₥₵ⱤØ₴₴",
