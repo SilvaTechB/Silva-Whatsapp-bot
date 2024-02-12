@@ -112,5 +112,5 @@ The MCROSS_Md is made available under the [GPL-3 license](https://github.com/Suh
 ## 
 - *Mcross-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind so make una no go blame me (KÎÑG M-ÇRØSS).*
+- *Use Mcross-Md at your own risk by keeping this warning in mind so make una no go blame me (KÎÑG M-ÇRØSS).*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
