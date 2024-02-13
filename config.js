@@ -82,7 +82,7 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
   aitts_Voice_Id : process.env.AITTS_ID || "37",
-  ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
+  ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "https://api.elevenlabs.io/v1/text-to-speech/<voice-id>",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
   LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "🄼🄲🅁🄾🅂🅂",
 
