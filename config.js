@@ -6,7 +6,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 global.audio= "" ;  
 global.video= "" ;
 global.port =process.env.PORT
-global.appUrl=process.env.APP_URL || "https://wa.me/2347082604774"                       // put your app url here,
+global.appUrl=process.env.APP_URL || "https://telegra.ph/file/dc51ed6dc3cbb43b15728.jpg"                       // put your app url here,
 global.email ="kingmcross090@gmail.com"
 global.location="Nigeria,Ogunstate."
 global.mongodb= process.env.MONGODB_URI || "mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu"
