@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/e134e2b6fbc80e421cbe7.jpg"
+      "value": "https://telegra.ph/file/dc51ed6dc3cbb43b15728.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
