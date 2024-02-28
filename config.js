@@ -6,7 +6,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 global.audio= "" ;  
 global.video= "" ;
 global.port =process.env.PORT
-global.appUrl=process.env.APP_URL || "https://telegra.ph/file/dc51ed6dc3cbb43b15728.jpg"                       // put your app url here,
+global.appUrl=process.env.APP_URL || "https://telegra.ph/file/74fe969b16562689a33b1.jpg"                       // put your app url here,
 global.email ="kingmcross090@gmail.com"
 global.location="Nigeria,Ogunstate."
 global.mongodb= process.env.MONGODB_URI || "mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu"
@@ -16,9 +16,9 @@ global.DATABASE_URI=process.env.DATABASE_URL || "mongodb://uwrr2obvrb4kbwnrvimy:
 global.scan = "https://suhail-md-vtsf.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "AFRICA/LAGOS";
 global.github=process.env.GITHUB|| "https://github.com/M-cross1/Suhail-Md/tree/main";
-global.gurl  =process.env.GURL  || "https://wa.me/2347082604774";
-global.website=process.env.GURL || "https://wa.me/2347082604774" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/9d02e512c06daa5543c97.jpg" ; // SET LOGO FOR IMAGE 
+global.gurl  =process.env.GURL  || "https://wa.me/2349042566473";
+global.website=process.env.GURL || "https://wa.me/2349042566473" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/74fe969b16562689a33b1.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -30,7 +30,7 @@ global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]
 
 
 //========================= [ BOT SETTINGS ] =========================\\
-global.style = process.env.STYLE   || "1",  // put '1' to "5" here to check bot styles
+global.style = process.env.STYLE   || "5",  // put '1' to "5" here to check bot styles
 global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not responed
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable WELCOME 
@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 5,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/9d02e512c06daa5543c97.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/74fe969b16562689a33b1.jpg",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -63,9 +63,9 @@ module.exports = {
   HANDLERS : process.env.PREFIX || "✅",
   BRANCH : process.env.BRANCH   || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "𝙂𝙊𝘿𝘽𝙇𝙀𝙎𝙎-𝙈𝘿" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "彡𝐊𝐈𝐍𝐆༆𝐌-𝐂𝐑𝐎𝐒𝐒彡" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author: process.env.PACK_AUTHER || "MCROSS-MD",
+  author: process.env.PACK_AUTHER || "𝐌𝐂𝐑𝐎𝐒𝐒-𝐌𝐃",
   packname: process.env.PACK_NAME || "₭ł₦₲ ₥₵ⱤØ₴₴",
   botname : process.env.BOT_NAME  || "⫷𝗠𝗖𝗥𝗢𝗦𝗦-𝗠𝗗⫸",
   ownername:process.env.OWNER_NAME|| "🄺🄸🄽🄶 🄼-🄲🅁🄾🅂🅂",
