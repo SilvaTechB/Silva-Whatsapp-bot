@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "༆✯𝙈𝘾𝙍𝙊𝙎𝙎-𝙈𝘿✯༆"
+      "value": "༆✯𝗞𝗜𝗡𝗚☆𝗚𝗢𝗗𝗕𝗟𝗘𝗦𝗦☆𝙈𝘿✯༆"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/e134e2b6fbc80e421cbe7.jpg"
+      "value": "https://telegra.ph/file/9f6ac7eac92fd9220ca20.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
