@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "༆✯𝗞𝗜𝗡𝗚☆𝗚𝗢𝗗𝗕𝗟𝗘𝗦𝗦☆𝙈𝘿✯༆"
+      "value": "☛✠𝑴𝑪𝑹𝑶𝑺𝑺-𝑴𝑫♅☚"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/9f6ac7eac92fd9220ca20.jpg"
+      "value": "https://telegra.ph/file/df31169607c18eb886a68.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -96,7 +96,7 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
-      "value": "🔥"
+      "value": "⚡"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
