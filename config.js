@@ -16,9 +16,9 @@ global.DATABASE_URI=process.env.DATABASE_URL || "mongodb://uwrr2obvrb4kbwnrvimy:
 global.scan = "https://suhail-md-vtsf.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "AFRICA/LAGOS";
 global.github=process.env.GITHUB|| "https://github.com/M-cross1/Suhail-Md/tree/main";
-global.gurl  =process.env.GURL  || "https://wa.me/2347082604774";
-global.website=process.env.GURL || "https://wa.me/2347082604774" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/7c0f58651b3dd4c010332.jpg" ; // SET LOGO FOR IMAGE 
+global.gurl  =process.env.GURL  || "https://wa.me/2349042566473";
+global.website=process.env.GURL || "https://wa.me/2349042566473" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/fda9754d8865f8a50211f.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 5,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/7c0f58651b3dd4c010332.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/fda9754d8865f8a50211f.jpg",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -63,7 +63,7 @@ module.exports = {
   HANDLERS : process.env.PREFIX || "✅",
   BRANCH : process.env.BRANCH   || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "✪𝙂𝙊𝘿𝘽𝙇𝙀𝙎𝙎*𝙈𝘿✪" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "✙𝑲𝑰𝑵𝑮✮𝑴-𝑪𝑹𝑶𝑺𝑺✙" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author: process.env.PACK_AUTHER || "𝐌𝐂𝐑𝐎𝐒𝐒-𝐌𝐃",
   packname: process.env.PACK_NAME || "₭ł₦₲ ₥₵ⱤØ₴₴",
