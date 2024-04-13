@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "ＫＩＮＧ♡Ｍ-ＣＲＯＳＳ",
+      "value": "Ｍ-ＣＲＯＳＳ✔️",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "☛✠𝑴𝑪𝑹𝑶𝑺𝑺-𝑴𝑫♅☚"
+      "value": "☛𝐌𝐂𝐑𝐎𝐒𝐒-𝐌𝐃☚"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/fda9754d8865f8a50211f.jpg"
+      "value": "https://telegra.ph/file/52d259354a5da6b250132.jpg,https://telegra.ph/file/859e6c982e5ad10193cf3.jpg,https://telegra.ph/file/fb8689906492c50d8a908.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "✯𝑴𝑪𝑹𝑶𝑺𝑺-𝑴𝑫✯",
+      "value": "𝐌𝐂𝐑𝐎𝐒𝐒-𝐌𝐃",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "彡𝑲𝑰𝑵𝑮 𝑴-𝑪𝑹𝑶𝑺𝑺彡",
+      "value": "ＫＩＮＧ ＭＣＲＯＳＳ",
       "required": false 
     }
   }, 
