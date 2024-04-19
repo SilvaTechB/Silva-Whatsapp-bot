@@ -6,10 +6,10 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
+#    * @project_name : YOUSAF BALOCH 
 #    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @youtube : https://youtube.com/@Y.BGamer110?si=zsCGzD08SQy9CqD0
+#    * @description : YOUSAF KHAN,A Multi-functional whatsapp bot md.
 #    * @version 1.2.8
 # 
 # Don't change this [ /SuhailTechInfo/ ] name!
