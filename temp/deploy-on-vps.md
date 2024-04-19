@@ -40,12 +40,12 @@
       ```
       OWNER_NUMBER="923184474176"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
-      OWNER_NAME = "Suhail"
+      THUMB_IMAGE = "[https://telegra.ph/file/94a31c99e842cda2e5bf0.jpg]([https://telegra.ph/file/94a31c99e842cda2e5bf0.jpg](https://telegra.ph/file/94a31c99e842cda2e5bf0.jpg))"
+      OWNER_NAME = "YOUSAF KHAN"
       PREFIX = .
       WARN_COUNT = 3
       DISABLE_PM = "false"
-      THEME= "SUHAIL"
+      THEME= "YOUSAF BALOCH"
       MODE = "public"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
