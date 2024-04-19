@@ -38,7 +38,7 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="923115971525"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
       THUMB_IMAGE = "[https://telegra.ph/file/94a31c99e842cda2e5bf0.jpg]([https://telegra.ph/file/94a31c99e842cda2e5bf0.jpg](https://telegra.ph/file/94a31c99e842cda2e5bf0.jpg))"
       OWNER_NAME = "YOUSAF KHAN"
