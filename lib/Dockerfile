@@ -8,7 +8,7 @@
 # 
 #    * @project_name : YOUSAF BALOCH 
 #    * @author : @yousafkhanbaloch
-#    * @youtube : https://youtube.com/@Y.BGamer110?si=zsCGzD08SQy9CqD0
+#    * @youtube : https://youtube.com/@Y.BGamer110
 #    * @description : YOUSAF KHAN,A Multi-functional whatsapp bot md.
 #    * @version 1.2.8
 # 
