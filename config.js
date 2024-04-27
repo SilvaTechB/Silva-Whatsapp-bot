@@ -18,10 +18,10 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
+global.github=process.env.GITHUB|| "https://github.com/YosafN/YOUSAF-KHAN";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaXTvQ7JuyAHXjJBs61T";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaXTvQ7JuyAHXjJBs61T" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/e0e4a05de8de7abeaf956.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/4c6df8243017a1f7e7890.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -71,7 +71,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.9",
-  caption : process.env.CAPTION || "یوسفⷩــⷭــⷪــᷞــⷽــⷡــ➳🇲R" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "یوسفⷩــⷭــⷪــᷞــⷽــⷡــ➳🇲R" , // ```『 YOUSAF KHAN BALOCH  』```", //*『YOUSAF • KHAN BALOCH』*\n https://youtube.com/@Y.BGamer110"),
  
   author : process.env.PACK_AUTHER|| "YOUSAF BALOCH",
   packname: process.env.PACK_NAME || "❤️",
