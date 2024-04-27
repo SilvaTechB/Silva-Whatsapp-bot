@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.2.8",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "name": "YOUSAF KHAN@1.2.8",
+  "description": "I am YOUSAF KHAN-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "logo": "https://telegra.ph/file/4c6df8243017a1f7e7890.jpg",
+  "keywords": ["whatsappbot", "YOUSAF Md", "YOUSAF Md bot", "YOUSAF-Md", "YOUSAFMdWhatsaooBot", "YousafWaBot","YousafMD","YousafMd Whatsapp Bot","multi device"],
+  "success_url": "/yousaf/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "YOUSAF BALOCH",    
-      "value": "Suhail Ser",
+      "value": "Yousaf Ser",
       "required" :true
     },   
      
@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "value": "https://telegra.ph/file/4c6df8243017a1f7e7890.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "YOUSAF KHAN BALOCH",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "APNI PICTURE KA FREE STICKER BANWANY KAY LEYEA CONTACT ME 💔 03115971525",
       "required": false 
     }
   }, 
