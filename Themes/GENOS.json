@@ -1,8 +1,8 @@
 {
     "__JSON__": true,
-    "AUTHOR": "SamPandey001",
+    "AUTHOR": "YOUSAF BALOCH",
     "LANGUAGE": "English",
-    "theme": "Genos",
+    "theme": "YOUSAF BALOCH",
     "LANGCODE": "en",
     "STRINGS": {   
         "updater": {  
@@ -11,8 +11,8 @@
             "UPDATED_LOCAL": "*Fresh Updates Installed!*"
         },       
         "global": { 
-            "botName": "𝐆𝐞𝐧𝐨𝐬",
-            "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+            "botName": "YOUSAF BALOCH",
+            "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡 YOUSAF KHAN",
             "greet2" : "Hey Master",
             "pic1": "https://images5.alphacoders.com/656/656718.jpg",
             "pic2": "https://i.pinimg.com/originals/4e/f4/9f/4ef49fa405a4973e1682c7fcdc68fe1c.jpg",
@@ -34,8 +34,8 @@
             "antlink": "Link Detected.\n*Good Bye Master*",
             "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐞𝐧𝐨𝐬*",
             "mention": " Please mention any user Master",
-            "title": "𝐆𝐄𝐍𝐎𝐒",
-            "footer": "𝐆𝐄𝐍𝐎𝐒-𝐂𝐘𝐁𝐎𝐑𝐆",
+            "title": "YOUSAF BALOCH",
+            "footer": "YOUSAF BALOCH-𝐂𝐘𝐁𝐎𝐑𝐆",
             "by": "Made by: *CitelVoid*",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Success ✓",
