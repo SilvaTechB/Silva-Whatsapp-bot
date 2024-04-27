@@ -58,7 +58,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "923115971525,923xxxxxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app"
-global.scan = "https://suhail-md-vtsf.onrender.com/";
+global.scan = "https://yousaf khan-vtsf.onrender.com/";
 
 
 global.SESSION_ID = process.env.SESSION_ID ||  "" ;
@@ -66,7 +66,7 @@ global.SESSION_ID = process.env.SESSION_ID ||  "" ;
 
 module.exports = {
 
-  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: YOUSAF KHAN Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
