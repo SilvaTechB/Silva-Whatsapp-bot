@@ -1,7 +1,7 @@
 
 {
     "__JSON__": true,
-    "AUTHOR": "CitelVoid",
+    "AUTHOR": "YOUSAF KHAN",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {  
@@ -11,8 +11,8 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },       
         "global": { 
-            "botName": "𝐆𝐢𝐝𝐞𝐨𝐧", 
-            "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+            "botName": "YOUSAF KHAN", 
+            "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡 YOUSAF BALOCH",
             "greet2" : "Hey Mr",
             "pic1": "https://cdn.mos.cms.futurecdn.net/JGFMHxCo5ZFfjLduDamRXD-1200-80.jpg",
             "pic2": "https://sportshub.cbsistatic.com/i/2021/04/09/8ff9a3c4-e370-407a-8cd5-d5807c98b2bf/gideon-legends-of-tomorrow-1086741.jpg",
@@ -33,8 +33,8 @@
             "antlink": "Link Detected.\n*Good Bye Sir*",
             "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝒁𝒆𝒓𝒐 𝑻𝒘𝒐*",
             "mention": " Please mention any user Darling",
-            "title": "𝐆𝐢𝐝𝐞𝐨𝐧",
-            "footer": "𝐆𝐢𝐝𝐞𝐨𝐧-𝐁𝐨𝐭𝐭𝐨",
+            "title": "YOUSAF BALOCH",
+            "footer": "YOUSAF BALOCH",
             "by": "Made by: *CitelVoid*",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
