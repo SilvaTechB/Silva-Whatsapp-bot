@@ -1,43 +1,43 @@
 {
   "name": "suhail-md@1.3.4",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "description": "I am anonymous-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/message/NC6RHTFP3WJGK1",
+  "logo": "https://telegra.ph/file/a7d350d754338718db078.jpg",
+  "keywords": ["whatsappbot", "anonymousmd", "anonymous Md bot", "anonymous-Md", "anonymousMdWhatsaooBot", "SuhailWaBot","anonymousMD","anonymousMd Whatsapp Bot","multi device"],
+  "success_url": "/anonymous/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "sammy",
       "required" :true
     },   
      
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
       "value": "true",
-      "required" :false
+      "required" :true
     },
      
     "GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-      "value": "false",
-      "required" :false
+      "value": "true",
+      "required" :true
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
-      "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "required" :true,    
+      "value": "anonymous"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Nigera/Lagos"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
-      "required" :false,    
-      "value": "false"
+      "required" :true,    
+      "value": "true"
     },     
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -51,27 +51,27 @@
     },  
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status", 
-      "required" :false,   
-      "value": "false"
+      "required" :true,   
+      "value": "true"
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "HRKU-181b0cf7-4bb2-423a-b707-822638cac26e",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
-      "value": "",
+      "value": "anya Lucas knight",
     "required" :true
     }, 
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
-      "required" :false,
-      "value": "unavailable"
+      "required" :true,
+      "value": "composing"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
-      "required" :false,
+      "required" :true,
       "value": "true"
     }, 
     "MSGS_IN_LOG": {
@@ -86,20 +86,20 @@
     },
     "DISABLE_PM": {
       "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
-      "value": "false",
-      "required" :false
+      "value": "true",
+      "required" :true
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": "."
+      "value": "*"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "2349137924276"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "SUHAIL_19_14_05_02_ewogICJjcmVkcy5qc29uIjogIntcbiAgXCJub2lzZUtleVwiOiB7XG4gICAgXCJwcml2YXRlXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgMTkyLFxuICAgICAgICAzNCxcbiAgICAgICAgMTAwLFxuICAgICAgICA3MCxcbiAgICAgICAgMjQ2LFxuICAgICAgICAxOCxcbiAgICAgICAgMzMsXG4gICAgICAgIDAsXG4gICAgICAgIDEyNyxcbiAgICAgICAgMTU1LFxuICAgICAgICAyMyxcbiAgICAgICAgMjE1LFxuICAgICAgICAxOTksXG4gICAgICAgIDQ5LFxuICAgICAgICA5NyxcbiAgICAgICAgNSxcbiAgICAgICAgMzIsXG4gICAgICAgIDM2LFxuICAgICAgICA0NyxcbiAgICAgICAgNzgsXG4gICAgICAgIDIzMSxcbiAgICAgICAgMTQsXG4gICAgICAgIDIxMCxcbiAgICAgICAgNzMsXG4gICAgICAgIDE4MixcbiAgICAgICAgMTA3LFxuICAgICAgICA5LFxuICAgICAgICAyMDMsXG4gICAgICAgIDI0NixcbiAgICAgICAgMTI4LFxuICAgICAgICA2MCxcbiAgICAgICAgMTIzXG4gICAgICBdXG4gICAgfSxcbiAgICBcInB1YmxpY1wiOiB7XG4gICAgICBcInR5cGVcIjogXCJCdWZmZXJcIixcbiAgICAgIFwiZGF0YVwiOiBbXG4gICAgICAgIDY3LFxuICAgICAgICA5MCxcbiAgICAgICAgMixcbiAgICAgICAgOTUsXG4gICAgICAgIDIwMSxcbiAgICAgICAgMTY5LFxuICAgICAgICAxMTksXG4gICAgICAgIDU1LFxuICAgICAgICAxMjQsXG4gICAgICAgIDU0LFxuICAgICAgICAxOTEsXG4gICAgICAgIDg1LFxuICAgICAgICAxODAsXG4gICAgICAgIDEyMCxcbiAgICAgICAgMjEzLFxuICAgICAgICAyMTksXG4gICAgICAgIDE4MixcbiAgICAgICAgMzMsXG4gICAgICAgIDIyNCxcbiAgICAgICAgMjUyLFxuICAgICAgICA3MixcbiAgICAgICAgMTg1LFxuICAgICAgICA1OCxcbiAgICAgICAgNzUsXG4gICAgICAgIDIyMSxcbiAgICAgICAgNTEsXG4gICAgICAgIDM5LFxuICAgICAgICAxNzYsXG4gICAgICAgIDQxLFxuICAgICAgICAxMCxcbiAgICAgICAgMjE3LFxuICAgICAgICA4NVxuICAgICAgXVxuICAgIH1cbiAgfSxcbiAgXCJwYWlyaW5nRXBoZW1lcmFsS2V5UGFpclwiOiB7XG4gICAgXCJwcml2YXRlXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgODAsXG4gICAgICAgIDI5LFxuICAgICAgICAxMjksXG4gICAgICAgIDE2LFxuICAgICAgICA5MyxcbiAgICAgICAgMTc5LFxuICAgICAgICAyMTUsXG4gICAgICAgIDQ3LFxuICAgICAgICAxNzMsXG4gICAgICAgIDQ0LFxuICAgICAgICA1MyxcbiAgICAgICAgMTI4LFxuICAgICAgICA4MyxcbiAgICAgICAgMjEwLFxuICAgICAgICA5NSxcbiAgICAgICAgNjYsXG4gICAgICAgIDczLFxuICAgICAgICAyNTUsXG4gICAgICAgIDUxLFxuICAgICAgICA5MCxcbiAgICAgICAgMjQzLFxuICAgICAgICAxNzIsXG4gICAgICAgIDE5LFxuICAgICAgICA0NyxcbiAgICAgICAgNDEsXG4gICAgICAgIDMwLFxuICAgICAgICAxMzcsXG4gICAgICAgIDMsXG4gICAgICAgIDcwLFxuICAgICAgICAyMDUsXG4gICAgICAgIDUxLFxuICAgICAgICAxMDFcbiAgICAgIF1cbiAgICB9LFxuICAgIFwicHVibGljXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgMjQ4LFxuICAgICAgICAxNzUsXG4gICAgICAgIDYyLFxuICAgICAgICAxMjQsXG4gICAgICAgIDE4NyxcbiAgICAgICAgOCxcbiAgICAgICAgMTY3LFxuICAgICAgICAxNjMsXG4gICAgICAgIDE3MixcbiAgICAgICAgNjcsXG4gICAgICAgIDE5NCxcbiAgICAgICAgMTA5LFxuICAgICAgICAxMjYsXG4gICAgICAgIDExMCxcbiAgICAgICAgMjA1LFxuICAgICAgICAyNTAsXG4gICAgICAgIDI3LFxuICAgICAgICAxOSxcbiAgICAgICAgMTQwLFxuICAgICAgICAxMjMsXG4gICAgICAgIDIwMSxcbiAgICAgICAgMjAzLFxuICAgICAgICA2MixcbiAgICAgICAgMTI1LFxuICAgICAgICAzMSxcbiAgICAgICAgMTE5LFxuICAgICAgICAyMzMsXG4gICAgICAgIDE1MSxcbiAgICAgICAgMTYyLFxuICAgICAgICA4MCxcbiAgICAgICAgMjAzLFxuICAgICAgICA4MVxuICAgICAgXVxuICAgIH1cbiAgfSxcbiAgXCJzaWduZWRJZGVudGl0eUtleVwiOiB7XG4gICAgXCJwcml2YXRlXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgNDgsXG4gICAgICAgIDE5OSxcbiAgICAgICAgMTY5LFxuICAgICAgICAxODIsXG4gICAgICAgIDY1LFxuICAgICAgICA4NSxcbiAgICAgICAgMTEwLFxuICAgICAgICAyNTQsXG4gICAgICAgIDIzMixcbiAgICAgICAgNjksXG4gICAgICAgIDEzMixcbiAgICAgICAgOTIsXG4gICAgICAgIDE4MSxcbiAgICAgICAgODMsXG4gICAgICAgIDI1MSxcbiAgICAgICAgNSxcbiAgICAgICAgMjUwLFxuICAgICAgICAyMzEsXG4gICAgICAgIDE4OSxcbiAgICAgICAgMjI5LFxuICAgICAgICAxNjksXG4gICAgICAgIDIwMyxcbiAgICAgICAgNDUsXG4gICAgICAgIDc3LFxuICAgICAgICAxNzIsXG4gICAgICAgIDY0LFxuICAgICAgICA5LFxuICAgICAgICAzOCxcbiAgICAgICAgMjYsXG4gICAgICAgIDI2LFxuICAgICAgICAxNDUsXG4gICAgICAgIDEyNlxuICAgICAgXVxuICAgIH0sXG4gICAgXCJwdWJsaWNcIjoge1xuICAgICAgXCJ0eXBlXCI6IFwiQnVmZmVyXCIsXG4gICAgICBcImRhdGFcIjogW1xuICAgICAgICAxOTksXG4gICAgICAgIDc0LFxuICAgICAgICAyMjMsXG4gICAgICAgIDUzLFxuICAgICAgICA4OSxcbiAgICAgICAgMjQxLFxuICAgICAgICAyMjYsXG4gICAgICAgIDE1MSxcbiAgICAgICAgNzcsXG4gICAgICAgIDIsXG4gICAgICAgIDE3MyxcbiAgICAgICAgMTM5LFxuICAgICAgICA0NyxcbiAgICAgICAgMTIxLFxuICAgICAgICAxNjYsXG4gICAgICAgIDEzMyxcbiAgICAgICAgNzUsXG4gICAgICAgIDEyOCxcbiAgICAgICAgMTg4LFxuICAgICAgICAxNDAsXG4gICAgICAgIDEzNSxcbiAgICAgICAgMTkxLFxuICAgICAgICAxMTgsXG4gICAgICAgIDM5LFxuICAgICAgICA0MixcbiAgICAgICAgMTc1LFxuICAgICAgICA2NSxcbiAgICAgICAgMTEwLFxuICAgICAgICAxMzksXG4gICAgICAgIDE5NSxcbiAgICAgICAgMTc2LFxuICAgICAgICAxMVxuICAgICAgXVxuICAgIH1cbiAgfSxcbiAgXCJzaWduZWRQcmVLZXlcIjoge1xuICAgIFwia2V5UGFpclwiOiB7XG4gICAgICBcInByaXZhdGVcIjoge1xuICAgICAgICBcInR5cGVcIjogXCJCdWZmZXJcIixcbiAgICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgICA1NixcbiAgICAgICAgICAxOTcsXG4gICAgICAgICAgMTY5LFxuICAgICAgICAgIDE2NixcbiAgICAgICAgICAxMTksXG4gICAgICAgICAgNjgsXG4gICAgICAgICAgMjU0LFxuICAgICAgICAgIDYxLFxuICAgICAgICAgIDExNSxcbiAgICAgICAgICAyNTEsXG4gICAgICAgICAgNDcsXG4gICAgICAgICAgMTU2LFxuICAgICAgICAgIDIzMixcbiAgICAgICAgICAyNDIsXG4gICAgICAgICAgMTE0LFxuICAgICAgICAgIDE0NSxcbiAgICAgICAgICAyMyxcbiAgICAgICAgICAyMzIsXG4gICAgICAgICAgNDUsXG4gICAgICAgICAgNzQsXG4gICAgICAgICAgOTMsXG4gICAgICAgICAgMTI5LFxuICAgICAgICAgIDE3OSxcbiAgICAgICAgICAxMDksXG4gICAgICAgICAgMjUxLFxuICAgICAgICAgIDE4NixcbiAgICAgICAgICAyMzksXG4gICAgICAgICAgMTkxLFxuICAgICAgICAgIDE2OSxcbiAgICAgICAgICA0MyxcbiAgICAgICAgICA4MyxcbiAgICAgICAgICA3NVxuICAgICAgICBdXG4gICAgICB9LFxuICAgICAgXCJwdWJsaWNcIjoge1xuICAgICAgICBcInR5cGVcIjogXCJCdWZmZXJcIixcbiAgICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgICAxODksXG4gICAgICAgICAgODUsXG4gICAgICAgICAgNTAsXG4gICAgICAgICAgMjE2LFxuICAgICAgICAgIDExNyxcbiAgICAgICAgICAxNDYsXG4gICAgICAgICAgNixcbiAgICAgICAgICAxMzAsXG4gICAgICAgICAgMTU3LFxuICAgICAgICAgIDgwLFxuICAgICAgICAgIDc2LFxuICAgICAgICAgIDEwNSxcbiAgICAgICAgICAxNzIsXG4gICAgICAgICAgMTcxLFxuICAgICAgICAgIDU1LFxuICAgICAgICAgIDE0MCxcbiAgICAgICAgICAxMzAsXG4gICAgICAgICAgNzgsXG4gICAgICAgICAgMjI4LFxuICAgICAgICAgIDUxLFxuICAgICAgICAgIDIwMCxcbiAgICAgICAgICAxNixcbiAgICAgICAgICAyMTAsXG4gICAgICAgICAgMjI2LFxuICAgICAgICAgIDEwOCxcbiAgICAgICAgICAxNTYsXG4gICAgICAgICAgMTM0LFxuICAgICAgICAgIDE5MSxcbiAgICAgICAgICAxNTAsXG4gICAgICAgICAgMTEsXG4gICAgICAgICAgMTUyLFxuICAgICAgICAgIDkzXG4gICAgICAgIF1cbiAgICAgIH1cbiAgICB9LFxuICAgIFwic2lnbmF0dXJlXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgMTg2LFxuICAgICAgICAxMTIsXG4gICAgICAgIDE4NyxcbiAgICAgICAgMjIzLFxuICAgICAgICAyMTgsXG4gICAgICAgIDE2MCxcbiAgICAgICAgODEsXG4gICAgICAgIDE1MyxcbiAgICAgICAgMixcbiAgICAgICAgMTAxLFxuICAgICAgICAxNTgsXG4gICAgICAgIDEwMixcbiAgICAgICAgMjQ2LFxuICAgICAgICA2OCxcbiAgICAgICAgMjUzLFxuICAgICAgICAyMzgsXG4gICAgICAgIDEzNyxcbiAgICAgICAgMjMyLFxuICAgICAgICAxMjQsXG4gICAgICAgIDE0OSxcbiAgICAgICAgMTMxLFxuICAgICAgICAzNSxcbiAgICAgICAgMTMyLFxuICAgICAgICAzOCxcbiAgICAgICAgNjYsXG4gICAgICAgIDY4LFxuICAgICAgICA5NyxcbiAgICAgICAgMjA5LFxuICAgICAgICAxNzcsXG4gICAgICAgIDEzNSxcbiAgICAgICAgMTAzLFxuICAgICAgICAyNTAsXG4gICAgICAgIDE1NixcbiAgICAgICAgMTI3LFxuICAgICAgICAxMDQsXG4gICAgICAgIDIzNixcbiAgICAgICAgMixcbiAgICAgICAgNzYsXG4gICAgICAgIDI1MixcbiAgICAgICAgMTAxLFxuICAgICAgICAzNCxcbiAgICAgICAgMTQ2LFxuICAgICAgICA5OCxcbiAgICAgICAgMTY3LFxuICAgICAgICAzOCxcbiAgICAgICAgMjEsXG4gICAgICAgIDI4LFxuICAgICAgICAxNDYsXG4gICAgICAgIDI1MSxcbiAgICAgICAgMTc5LFxuICAgICAgICAxNzgsXG4gICAgICAgIDUsXG4gICAgICAgIDgwLFxuICAgICAgICA4OSxcbiAgICAgICAgMTQ3LFxuICAgICAgICAxNTUsXG4gICAgICAgIDE3MCxcbiAgICAgICAgNjQsXG4gICAgICAgIDkxLFxuICAgICAgICA1OCxcbiAgICAgICAgMTQyLFxuICAgICAgICAxNyxcbiAgICAgICAgOTksXG4gICAgICAgIDJcbiAgICAgIF1cbiAgICB9LFxuICAgIFwia2V5SWRcIjogMVxuICB9LFxuICBcInJlZ2lzdHJhdGlvbklkXCI6IDIyOSxcbiAgXCJhZHZTZWNyZXRLZXlcIjogXCJTdS93VjhHSWF6d3h3YS81bWRqRkxXYU9PS2dkbUx4blRaV2JSRytlcVhvPVwiLFxuICBcInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlc1wiOiBbXSxcbiAgXCJuZXh0UHJlS2V5SWRcIjogMzEsXG4gIFwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWRcIjogMzEsXG4gIFwiYWNjb3VudFN5bmNDb3VudGVyXCI6IDAsXG4gIFwiYWNjb3VudFNldHRpbmdzXCI6IHtcbiAgICBcInVuYXJjaGl2ZUNoYXRzXCI6IGZhbHNlXG4gIH0sXG4gIFwiZGV2aWNlSWRcIjogXCJsSkFxb0ZMU1JaZWg0Z2l5d2RrWlVBXCIsXG4gIFwicGhvbmVJZFwiOiBcImFmNzliZDAzLTU0MGEtNDFiMC04NTc2LWUzMzZhZmI5Njk2MlwiLFxuICBcImlkZW50aXR5SWRcIjoge1xuICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgIFwiZGF0YVwiOiBbXG4gICAgICAyNDAsXG4gICAgICAxMDgsXG4gICAgICAxNTksXG4gICAgICAyMjgsXG4gICAgICAyMjYsXG4gICAgICAxNixcbiAgICAgIDExMSxcbiAgICAgIDYzLFxuICAgICAgMjQyLFxuICAgICAgMjA1LFxuICAgICAgMzksXG4gICAgICA4OCxcbiAgICAgIDQxLFxuICAgICAgOTcsXG4gICAgICAyNDYsXG4gICAgICAxODIsXG4gICAgICAyNDQsXG4gICAgICAxODYsXG4gICAgICA5NCxcbiAgICAgIDE0MFxuICAgIF1cbiAgfSxcbiAgXCJyZWdpc3RlcmVkXCI6IHRydWUsXG4gIFwiYmFja3VwVG9rZW5cIjoge1xuICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgIFwiZGF0YVwiOiBbXG4gICAgICA4MCxcbiAgICAgIDQ5LFxuICAgICAgMjUwLFxuICAgICAgOTcsXG4gICAgICA5MCxcbiAgICAgIDEyOSxcbiAgICAgIDUzLFxuICAgICAgMTE2LFxuICAgICAgMjEzLFxuICAgICAgNTQsXG4gICAgICAyMDMsXG4gICAgICAyMTQsXG4gICAgICAxODgsXG4gICAgICAxNjEsXG4gICAgICAxNDQsXG4gICAgICA5MyxcbiAgICAgIDE1NCxcbiAgICAgIDkzLFxuICAgICAgMTQwLFxuICAgICAgMTU2XG4gICAgXVxuICB9LFxuICBcInJlZ2lzdHJhdGlvblwiOiB7fSxcbiAgXCJwYWlyaW5nQ29kZVwiOiBcIjlIVjlRNDNKXCIsXG4gIFwibWVcIjoge1xuICAgIFwiaWRcIjogXCIyMzQ5MTM3OTI0MjQwOjQ3QHMud2hhdHNhcHAubmV0XCIsXG4gICAgXCJsaWRcIjogXCIxMDQ3ODQ3NTMzNDg4NTA6NDdAbGlkXCIsXG4gICAgXCJuYW1lXCI6IFwi5piv55qEIOWMv+WQjSBBbm9ueW1vdXNcIlxuICB9LFxuICBcImFjY291bnRcIjoge1xuICAgIFwiZGV0YWlsc1wiOiBcIkNJeWxsYmNHRVAvTHo3RUdHQU1nQUNnQVwiLFxuICAgIFwiYWNjb3VudFNpZ25hdHVyZUtleVwiOiBcInlFQUh2dkxRZmRnQzZURzlHUUhDMmVnRjEvTXlHSWlpakdzakt3WElhRlk9XCIsXG4gICAgXCJhY2NvdW50U2lnbmF0dXJlXCI6IFwiemhOZUx1M1NQTExadWlEZER1Y2J6Y0tpMGlORnZUamozdnNsTlMzT3hNMEdSWWtiUGZaam9qek5Db3Z4V1FOcXBUUyt2dm55RHFGMUZid2QrTVp6Qmc9PVwiLFxuICAgIFwiZGV2aWNlU2lnbmF0dXJlXCI6IFwiUnhJNGJvQ1FkVVRuZFJGZ3hoNVBYWjcxV1BIWFR3NUM4b2RqZDViZ01sTklMakZCQkdtZitjR1Z4Q051NXVmSndSeHNDdlZORkdZSTFEbzdiT0JGQ3c9PVwiXG4gIH0sXG4gIFwic2lnbmFsSWRlbnRpdGllc1wiOiBbXG4gICAge1xuICAgICAgXCJpZGVudGlmaWVyXCI6IHtcbiAgICAgICAgXCJuYW1lXCI6IFwiMjM0OTEzNzkyNDI0MDo0N0BzLndoYXRzYXBwLm5ldFwiLFxuICAgICAgICBcImRldmljZUlkXCI6IDBcbiAgICAgIH0sXG4gICAgICBcImlkZW50aWZpZXJLZXlcIjoge1xuICAgICAgICBcInR5cGVcIjogXCJCdWZmZXJcIixcbiAgICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgICA1LFxuICAgICAgICAgIDIwMCxcbiAgICAgICAgICA2NCxcbiAgICAgICAgICA3LFxuICAgICAgICAgIDE5MCxcbiAgICAgICAgICAyNDIsXG4gICAgICAgICAgMjA4LFxuICAgICAgICAgIDEyNSxcbiAgICAgICAgICAyMTYsXG4gICAgICAgICAgMixcbiAgICAgICAgICAyMzMsXG4gICAgICAgICAgNDksXG4gICAgICAgICAgMTg5LFxuICAgICAgICAgIDI1LFxuICAgICAgICAgIDEsXG4gICAgICAgICAgMTk0LFxuICAgICAgICAgIDIxNyxcbiAgICAgICAgICAyMzIsXG4gICAgICAgICAgNSxcbiAgICAgICAgICAyMTUsXG4gICAgICAgICAgMjQzLFxuICAgICAgICAgIDUwLFxuICAgICAgICAgIDI0LFxuICAgICAgICAgIDEzNixcbiAgICAgICAgICAxNjIsXG4gICAgICAgICAgMTQwLFxuICAgICAgICAgIDEwNyxcbiAgICAgICAgICAzNSxcbiAgICAgICAgICA0MyxcbiAgICAgICAgICA1LFxuICAgICAgICAgIDIwMCxcbiAgICAgICAgICAxMDQsXG4gICAgICAgICAgODZcbiAgICAgICAgXVxuICAgICAgfVxuICAgIH1cbiAgXSxcbiAgXCJwbGF0Zm9ybVwiOiBcImFuZHJvaWRcIixcbiAgXCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXBcIjogMTcxNDY3NzI1MVxufSIsCiAgImFwcC1zdGF0ZS1zeW5jLWtleS11bmRlZmluZWQuanNvbiI6IHt9Cn0="
   
     },
     "OPENAI_API_KEY": {
@@ -109,12 +109,12 @@
     }, 
     "ELEVENLAB_API_KEY": {
       "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
-      "value": "",
+      "value": "0cdb1aed858329b9793413672094ce0d",
       "required" :false
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "yepeTQaFk7r9ymusihgXYvdN",
       "required" :false
     },
     "MODE": {
@@ -123,12 +123,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "anonymousmd",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "anonymous",
       "required": false 
     }
   }, 
