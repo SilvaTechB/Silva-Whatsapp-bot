@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> Silva Whatsapp Bot </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -16,7 +16,7 @@
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
+   <a href="https://github.com/SilvaTechB/Silva-whatsapp-bot/fork">
     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
    </a>
   <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
